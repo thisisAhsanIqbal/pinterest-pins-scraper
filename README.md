@@ -50,3 +50,9 @@
 ```bash
 pip install selenium
 
+
+## 🙌 Credits
+
+Built with ❤️ by @thisisAhsanIqbal
+SEO Consultant · Automation Developer · Instructor at FIRST (Akhuwat)
+GitHub · LinkedIn(https://www.linkedin.com/in/ahsan-iqbal-digitalmarketingexpert/)
