@@ -1,4 +1,4 @@
 # credentials.py
 
-EMAIL = "michael@themagicmushrooms.shop"
-PASSWORD = "Ahsan@themagicmushrooms.shop224"
+EMAIL = "hello@muhammadahsaniqbal.com"
+PASSWORD = "aaaa1111"
